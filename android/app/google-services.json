@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508153774526",
+    "project_id": "test-push-notification-afa96",
+    "storage_bucket": "test-push-notification-afa96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508153774526:android:781b23c4dd34ca2f9639ef",
+        "android_client_info": {
+          "package_name": "com.santosh.push_notification_test_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508153774526-allb08tbv68cvdgp4he1nmn19u9sb4rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnjhSaJlcIJ9FxdJ4-xu-etj7dDgaWMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508153774526-allb08tbv68cvdgp4he1nmn19u9sb4rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
